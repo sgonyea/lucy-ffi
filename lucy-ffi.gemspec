@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "lucy-ffi/version"
 
 Gem::Specification.new do |s|
-  s.name        = "lucy-ffi"
+  s.name        = "loosec"
   s.version     = Lucy::Ffi::VERSION
   s.authors     = ["Scott Gonyea"]
   s.email       = ["me@sgonyea.com"]
